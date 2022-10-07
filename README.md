@@ -8,7 +8,7 @@ Make your GitHub history back to 1999.
 
 [Generate a personal access token](https://github.com/settings/tokens/new) on GitHub and copy it.
 
-Run the following script
+Run the following script (Try running `Git Bash Here`)
 
 ```bash
 $ sh -c "$(curl -fsSL https://raw.github.com/xiaoyao-Ye/1999-script/main/index.sh)"
